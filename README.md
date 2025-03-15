@@ -79,7 +79,7 @@ _ _ _
 
 # 📂 About the Dataset
 
-### The dataset provides detailed insights into road accidents across various parameters, helping to identify patterns and trends for better road safety measures.
+ The dataset provides detailed insights into road accidents across various parameters, helping to identify patterns and trends for better road safety measures.
 
 ## Key Columns & Description
 
