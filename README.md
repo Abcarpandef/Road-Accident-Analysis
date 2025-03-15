@@ -122,6 +122,13 @@ Explore how different weather conditions (Clear, Rainy, Foggy) affect accident r
 
 
 
+![Screenshot 2025-03-15 233032](https://github.com/user-attachments/assets/c6ed23c5-286a-41f4-bd72-2eb6e27f9214)
+![Screenshot 2025-03-15 233048](https://github.com/user-attachments/assets/4ffc4530-2b0f-4360-8fb5-f5b756202c8b)
+
+![Screenshot 2025-03-15 233119](https://github.com/user-attachments/assets/35218bcb-dccd-449e-a2f6-b7f9b957b0f8)
+
+
+
 
 
 
